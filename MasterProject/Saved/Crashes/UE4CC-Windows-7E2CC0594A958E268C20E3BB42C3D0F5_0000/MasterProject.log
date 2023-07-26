@@ -1,0 +1,1560 @@
+﻿Log file open, 07/26/23 15:28:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MasterProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 59 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.366965
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900H, GPU: NVIDIA GeForce RTX 3080 Ti Laptop GPU
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.07.26-14.28.47:906][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.07.26-14.28.47:906][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+[2023.07.26-14.28.47:907][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.07.26-14.28.47:907][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+[2023.07.26-14.28.47:907][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+[2023.07.26-14.28.47:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.07.26-14.28.47:923][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.07.26-14.28.47:924][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.07.26-14.28.47:925][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.26-14.28.47:925][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.07.26-14.28.47:925][  0]LogHAL: Display: Platform has ~ 32 GB [34015080448 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.07.26-14.28.47:926][  0]LogInit: Going up to parent DeviceProfile []
+[2023.07.26-14.28.47:926][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.07.26-14.28.47:926][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:927][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.07.26-14.28.47:927][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.07.26-14.28.47:927][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Scalability.ini]
+[2023.07.26-14.28.47:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.07.26-14.28.47:927][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.07.26-14.28.47:927][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.07.26-14.28.47:927][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.07.26-14.28.47:931][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.07.26-14.28.47:931][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.07.26-14.28.47:931][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.07.26-14.28.47:931][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Engine.ini]
+[2023.07.26-14.28.47:931][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Homework/Second/MastersProject/MasterProject/Saved/Config/Windows/Editor.ini]
+[2023.07.26-14.28.47:932][  0]LogInit: Computer: CHALICE
+[2023.07.26-14.28.47:932][  0]LogInit: User: 49011
+[2023.07.26-14.28.47:932][  0]LogInit: CPU Page size=4096, Cores=14
+[2023.07.26-14.28.47:932][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.07.26-14.28.47:932][  0]LogMemory: Memory total: Physical=31.7GB (32GB approx)
+[2023.07.26-14.28.47:932][  0]LogMemory: Platform Memory Stats for Windows
+[2023.07.26-14.28.47:932][  0]LogMemory: Process Physical Memory: 152.27 MB used, 152.27 MB peak
+[2023.07.26-14.28.47:932][  0]LogMemory: Process Virtual Memory: 134.94 MB used, 134.94 MB peak
+[2023.07.26-14.28.47:932][  0]LogMemory: Physical Memory: 14417.82 MB used,  18021.49 MB free, 32439.31 MB total
+[2023.07.26-14.28.47:932][  0]LogMemory: Virtual Memory: 134200424.00 MB used,  17300.74 MB free, 134217728.00 MB total
+[2023.07.26-14.28.47:937][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.07.26-14.28.48:200][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.07.26-14.28.48:202][  0]LogInit: Overriding language with editor language configuration option (zh-Hans).
+[2023.07.26-14.28.48:202][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.07.26-14.28.48:501][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2023.07.26-14.28.48:501][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2023.07.26-14.28.48:501][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2023.07.26-14.28.48:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2023.07.26-14.28.48:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2023.07.26-14.28.48:502][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2023.07.26-14.28.48:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2023.07.26-14.28.48:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2023.07.26-14.28.48:503][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2023.07.26-14.28.48:504][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2023.07.26-14.28.48:504][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2023.07.26-14.28.48:588][  0]LogInit: Setting process to per monitor DPI aware
+[2023.07.26-14.28.48:615][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.07.26-14.28.48:686][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.07.26-14.28.48:686][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.07.26-14.28.50:936][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.07.26-14.28.50:940][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.07.26-14.28.50:940][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.07.26-14.28.50:940][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.07.26-14.28.50:940][  0]LogD3D11RHI: D3D11 adapters:
+[2023.07.26-14.28.51:032][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080 Ti Laptop GPU' (Feature Level 11_0)
+[2023.07.26-14.28.51:032][  0]LogD3D11RHI:       16189/0/16219 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.07.26-14.28.57:288][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2023.07.26-14.28.57:288][  0]LogD3D11RHI:       128/0/16219 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:       0/0/16219 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti Laptop GPU
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:     DeviceId    : 2460
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:     SubSysId    : b271028
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.26-14.28.57:292][  0]LogD3D11RHI:     DedicatedVideoMemory : 16975396864 bytes
+[2023.07.26-14.28.57:293][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.26-14.28.57:293][  0]LogD3D11RHI:     SharedSystemMemory : 17007540224 bytes
+[2023.07.26-14.28.57:293][  0]LogD3D11RHI:     AdapterLuid : 0 88792
+[2023.07.26-14.28.57:305][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.07.26-14.28.57:305][  0]LogD3D11RHI:     GPU DeviceId: 0x2460 (for the marketing name, search the web for "GPU Device Id")
+[2023.07.26-14.28.57:305][  0]LogWindows: EnumDisplayDevices:
+[2023.07.26-14.28.57:305][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.07.26-14.28.57:305][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.07.26-14.28.57:305][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.07.26-14.28.57:305][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.07.26-14.28.57:305][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3080 Ti Laptop GPU' (P:1 D:1)
+[2023.07.26-14.28.57:306][  0]LogWindows:    5. 'NVIDIA GeForce RTX 3080 Ti Laptop GPU' (P:0 D:0)
+[2023.07.26-14.28.57:306][  0]LogWindows:    6. 'NVIDIA GeForce RTX 3080 Ti Laptop GPU' (P:0 D:0)
+[2023.07.26-14.28.57:306][  0]LogWindows:    7. 'NVIDIA GeForce RTX 3080 Ti Laptop GPU' (P:0 D:0)
+[2023.07.26-14.28.57:306][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti Laptop GPU
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:   Driver Version: 535.98 (internal:31.0.15.3598, unified:535.98)
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:      Driver Date: 5-24-2023
+[2023.07.26-14.28.57:306][  0]LogRHI: Texture pool is 11332 MB (70% of 16189 MB)
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti Laptop GPU
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     DeviceId    : 2460
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     SubSysId    : b271028
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     DedicatedVideoMemory : 16975396864 bytes
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     SharedSystemMemory : 17007540224 bytes
+[2023.07.26-14.28.57:306][  0]LogD3D11RHI:     AdapterLuid : 0 88792
+[2023.07.26-14.28.57:371][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.07.26-14.28.57:372][  0]LogD3D11RHI: Async texture creation enabled
+[2023.07.26-14.28.57:372][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.07.26-14.28.57:374][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061081).
+[2023.07.26-14.28.57:421][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.07.26-14.28.57:487][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.07.26-14.28.58:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.07.26-14.28.58:112][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.07.26-14.28.58:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.07.26-14.28.58:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.07.26-14.28.58:210][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.07.26-14.28.58:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.07.26-14.28.58:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.07.26-14.28.58:268][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.07.26-14.28.58:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.07.26-14.28.58:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.07.26-14.28.58:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.07.26-14.28.58:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.07.26-14.28.58:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.07.26-14.28.58:407][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.07.26-14.28.58:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.07.26-14.28.58:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.07.26-14.28.58:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.07.26-14.28.58:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.07.26-14.28.58:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.07.26-14.28.58:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.07.26-14.28.58:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.07.26-14.28.58:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.07.26-14.28.58:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.07.26-14.28.58:569][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.07.26-14.28.58:644][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.07.26-14.28.58:863][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.07.26-14.28.59:162][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.07.26-14.28.59:163][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (../../../../Homework/Second/MastersProject/MasterProject/Intermediate/Shaders/WorkingDirectory/27180/).
+[2023.07.26-14.28.59:164][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/49011/AppData/Local/Temp/UnrealShaderWorkingDir/64B1A0364B0693A469B61CBDE4E4347C/'.
+[2023.07.26-14.28.59:166][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.07.26-14.28.59:166][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.07.26-14.28.59:166][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.07.26-14.29.02:751][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.07.26-14.29.02:822][  0]LogDerivedDataCache: Loaded boot cache 0.07s 94MB C:/Users/49011/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.07.26-14.29.02:822][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/49011/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.07.26-14.29.02:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Homework/Second/MastersProject/MasterProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.07.26-14.29.02:823][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.07.26-14.29.02:823][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Homework/Second/MastersProject/MasterProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.26-14.29.02:823][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.07.26-14.29.02:847][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.07.26-14.29.02:848][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.07.26-14.29.02:848][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.07.26-14.29.02:903][  0]LogDerivedDataCache: Speed tests for C:/Users/49011/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2023.07.26-14.29.02:903][  0]LogDerivedDataCache: Display: Performance to C:/Users/49011/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.19ms. RandomReadSpeed=19.81MBs, RandomWriteSpeed=157.07MBs. Assigned SpeedClass 'Local'
+[2023.07.26-14.29.02:904][  0]LogDerivedDataCache: Using Local data cache path C:/Users/49011/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.07.26-14.29.02:904][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.07.26-14.29.02:904][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.07.26-14.29.02:951][  0]LogSlate: Using FreeType 2.10.0
+[2023.07.26-14.29.02:966][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.07.26-14.29.03:126][  0]LogAssetRegistry: FAssetRegistry took 0.0054 seconds to start up
+[2023.07.26-14.29.03:501][  0]LogInit: Selected Device Profile: [Windows]
+[2023.07.26-14.29.03:501][  0]LogInit: Active device profile: [000001A71B7A0900][000001A717925500 49] Windows
+[2023.07.26-14.29.03:501][  0]LogInit: Profiles: [000001A71B7A0900][000001A717925500 49] Windows, [000001A71B767800][000001A71792D680 49] WindowsNoEditor, [000001A71B7A3500][000001A71BDC1800 49] WindowsServer, [000001A71B764E00][000001A71BDC5980 49] WindowsClient, [000001A71B7A3800][000001A71BDC9B00 49] IOS, [000001A71B766800][000001A71BDCC100 49] iPadAir, [000001A71B7A2000][000001A71BDD0280 49] iPadAir2, [000001A71B6C8A00][000001A71BDD8540 49] IPadPro, [000001A71B6C8B00][000001A71BDD4580 49] iPadAir3, [000001A71B765900][000001A71BDDC700 49] iPadAir4, [000001A71B6CB400][000001A717928840 49] iPadMini2, [000001A71B766A00][000001A71BDE0980 49] iPadMini3, [000001A71B6C9700][000001A71BDE4AC0 49] iPadMini4, [000001A71B7A1100][000001A71BDECC40 49] iPadMini5, [000001A71B6D0300][000001A71BE0EF00 49] iPhone6, [000001A71B6D0400][000001A71BDF0F40 49] iPodTouch6, [000001A71B6BBF00][000001A71BE17200 49] iPhone7, [000001A71B6BBE00][000001A71BE13240 49] iPodTouch7, [000001A71B766000][000001A71BE1B3C0 49] iPhone5S, [000001A71B6B9A00][000001A71BE1F540 49] iPhone6Plus, [000001A71B6D0200][000001A71BE236C0 49] iPhone6S, [000001A71B6B8600][000001A71BE27840 49] iPhone6SPlus, [000001A71B6D2900][000001A71BE2B9C0 49] iPhone7Plus, [000001A71B6BB100][000001A71BE2FB40 49] iPhoneSE, [000001A71B6D2200][000001A71BE32140 49] iPhone8, [000001A71B6BBB00][000001A71BE362C0 49] iPhone8Plus, [000001A71B6D0A00][000001A71BE3A440 49] iPhoneX, [000001A71B6B9400][000001A71BE3E5C0 49] iPhoneXS, [000001A71B6D3D00][000001A71BE42740 49] iPhoneXSMax, [000001A71B6B8500][000001A71BE468C0 49] iPhoneXR, [000001A71B6D1300][000001A71BDE8A00 49] iPhone11, [000001A71B6BA700][000001A71BE4AB40 49] iPhone11Pro, [000001A71B6D1000][000001A71BE4EC80 49] iPhone11ProMax, [000001A71B6BAA00][000001A71BE52DC0 49] iPhoneSE2, [000001A71B6D1400][000001A71BE5AF40 49] iPhone12Mini, [000001A71B6BA400][000001A71BE5F0C0 49] iPhone12, [000001A71B6D0D00][000001A71BE63240 49] iPhone12Pro, [000001A71B6BAB00][000001A71BE673C0 49] iPhone12ProMax, [000001A71B6D3000][000001A71BE6B540 49] iPadPro105, [000001A71B6B8700][000001A71BE6F6C0 49] iPadPro129, [000001A71B6D2800][000001A71BE73840 49] iPadPro97, [000001A71B6BA600][000001A71BE779C0 49] iPadPro2_129, [000001A71B6D3C00][000001A71BE7BB40 49] iPad5, [000001A71B6BA200][000001A71BE7E140 49] iPad6, [000001A71B6D0F00][000001A71BE822C0 49] iPad7, [000001A71B6BBC00][000001A71BE86440 49] iPad8, [000001A71B6D3400][000001A71BE8A5C0 49] iPadPro11, [000001A71B6BAF00][000001A71BE8E740 49] iPadPro2_11, [000001A71B6D3900][000001A71BE928C0 49] iPadPro3_129, [000001A71B6B9700][000001A71BE96A40 49] iPadPro4_129, [000001A71B6D1100][000001A71BE56B80 49] AppleTV, [000001A71B6BA100][000001A71BE9ACC0 49] AppleTV4K, [000001A71B6D1F00][000001A71BE9EE00 49] TVOS, [000001A71B6BB400][000001A71BEA2F40 49] Mac, [000001A71B6D3800][000001A71BEAB0C0 49] MacClient, [000001A71B6B9E00][000001A71BEAF240 49] MacNoEditor, [000001A71B6D3F00][000001A71BEB33C0 49] MacServer, [000001A71B6B9200][000001A71BEB7540 49] Linux, [000001A71B6D0C00][000001A71BEBB6C0 49] LinuxAArch64, [000001A71B6B9F00][000001A71BEBF840 49] LinuxNoEditor, [000001A71B6D1B00][000001A71BEC39C0 49] LinuxAArch64NoEditor, [000001A71B6BBA00][000001A71BEC7B40 49] LinuxClient, [000001A71B6D3500][000001A71BECA140 49] LinuxAArch64Client, [000001A71B6B9000][000001A71BECE2C0 49] LinuxServer, [000001A71B6D2500][000001A71BED2440 49] LinuxAArch64Server, [000001A71B6B8A00][000001A71BED65C0 49] Android, [000001A71B6D3300][000001A71BEDA740 49] Android_Low, [000001A71B6BB500][000001A71BEDE8C0 49] Android_Mid, [000001A71B6D0600][000001A71BEE2A40 49] Android_High, [000001A71B6B8200][000001A71BEE6BC0 49] Android_Default, [000001A71B6D3100][000001A71BEEAD40 49] Android_Adreno4xx, [000001A71B6B9100][000001A71BEA6E80 49] Android_Adreno5xx_Low, [000001A71B6CB600][000001A71BEEEFC0 49] Android_Adreno5xx, [000001A71B765500][000001A71BEF3100 49] Android_Adreno6xx, [000001A71B6C8F00][000001A71BEFB280 49] Android_Adreno6xx_Vulkan, [000001A71B767C00][000001A71BEFF400 49] Android_Mali_T6xx, [000001A71B6C9100][000001A71BF03580 49] Android_Mali_T7xx, [000001A71B765600][000001A71BF07700 49] Android_Mali_T8xx, [000001A71B6C9E00][000001A71BF15880 49] Android_Mali_G71, [000001A71B764500][000001A71BF19A00 49] Android_Mali_G72, [000001A71B6C8800][000001A71BF1DB80 49] Android_Mali_G72_Vulkan, [000001A71B767A00][000001A71BF3A180 49] Android_Mali_G76, [000001A71B6C8100][000001A71BF3E300 49] Android_Mali_G76_Vulkan, [000001A71B765F00][000001A7176BC480 49] Android_Mali_G77, [000001A71B6C9000][000001A71773E600 49] Android_Mali_G77_Vulkan, [000001A71B764A00][000001A717742780 49] Android_Mali_G78, [000001A71B6CAC00][000001A71775E900 49] Android_Mali_G78_Vulkan, [000001A71B767600][000001A717762A80 49] Android_Mali_G710, [000001A71B6CAB00][000001A717766C00 49] Android_Mali_G710_Vulkan, [000001A71B767F00][000001A71776AD80 49] Android_Vulkan_SM5, [000001A71B6CBB00][000001A71776EF00 49] Android_PowerVR_G6xxx, [000001A71B764100][000001A71BEF7040 49] Android_PowerVR_GT7xxx, [000001A71B6CA300][000001A717773180 49] Android_PowerVR_GE8xxx, [000001A71B764C00][000001A7177772C0 49] Android_PowerVR_GM9xxx, [000001A71B6CA700][000001A71777F440 49] Android_PowerVR_GM9xxx_Vulkan, [000001A71B766700][000001A7197515C0 49] Android_TegraK1, [000001A71B6C8600][000001A7197D3740 49] Android_Unknown_Vulkan, [000001A71B766D00][000001A7197EB8C0 49] Lumin, [000001A71B6C8500][000001A7176F5A40 49] Lumin_Desktop, [000001A71B766500][000001A7176F9BC0 49] HoloLens, 
+[2023.07.26-14.29.03:963][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.07.26-14.29.03:963][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.07.26-14.29.03:963][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.07.26-14.29.03:963][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.07.26-14.29.03:964][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.07.26-14.29.04:042][  0]LogNetVersion: MasterProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4285914777)
+[2023.07.26-14.29.06:250][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.07.26-14.29.06:367][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.07.26-14.29.06:375][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.07.26-14.29.06:375][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.07.26-14.29.06:375][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.07.26-14.29.07:950][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 56D23A1641EF59F1351C4DAF5C39627D | Instance: 1B3059EE4845EF655FF20DAF7315E82D (CHALICE-27180).
+[2023.07.26-14.29.08:177][  0]LogPython: Using Python 3.7.7
+[2023.07.26-14.29.09:185][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.07.26-14.29.09:209][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.07.26-14.29.10:139][  0]SourceControl: 源码管理已禁用
+[2023.07.26-14.29.10:139][  0]SourceControl: 源码管理已禁用
+[2023.07.26-14.29.10:169][  0]SourceControl: 源码管理已禁用
+[2023.07.26-14.29.10:268][  0]SourceControl: 源码管理已禁用
+[2023.07.26-14.29.10:336][  0]SourceControl: 源码管理已禁用
+[2023.07.26-14.29.10:396][  0]LogUProjectInfo: Found projects:
+[2023.07.26-14.29.11:457][  0]LogOpenImageDenoise: OIDN starting up
+[2023.07.26-14.29.11:685][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.07.26-14.29.11:806][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.26-14.29.11:806][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.07.26-14.29.12:336][  0]LogCollectionManager: Loaded 0 collections in 0.000822 seconds
+[2023.07.26-14.29.12:436][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Second/MastersProject/MasterProject/Saved/Collections/' took 0.00s
+[2023.07.26-14.29.12:436][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Second/MastersProject/MasterProject/Content/Developers/49011/Collections/' took 0.00s
+[2023.07.26-14.29.12:436][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Second/MastersProject/MasterProject/Content/Collections/' took 0.00s
+[2023.07.26-14.29.12:436][  0]LogOcInput: OculusInput pre-init called
+[2023.07.26-14.29.12:822][  0]LogEngine: Initializing Engine...
+[2023.07.26-14.29.12:863][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.07.26-14.29.12:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.07.26-14.29.12:864][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.07.26-14.29.12:867][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.07.26-14.29.13:098][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.07.26-14.29.13:154][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.07.26-14.29.13:157][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.07.26-14.29.13:176][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.07.26-14.29.13:180][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.07.26-14.29.13:181][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.07.26-14.29.13:181][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.07.26-14.29.13:182][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-14.29.13:182][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-14.29.13:182][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-14.29.13:182][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-14.29.13:182][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.26-14.29.13:182][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.26-14.29.13:182][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.26-14.29.13:182][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-14.29.13:183][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-14.29.13:183][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-14.29.13:183][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-14.29.13:183][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.26-14.29.13:223][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.26-14.29.13:223][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.07.26-14.29.13:233][  0]LogAudioMixer: Display: Using Audio Device MSI MAG274QRX (NVIDIA High Definition Audio)
+[2023.07.26-14.29.13:235][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-14.29.13:252][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-14.29.13:253][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-14.29.13:254][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.26-14.29.13:254][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.26-14.29.13:254][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.26-14.29.13:257][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.26-14.29.13:257][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.26-14.29.13:257][  0]LogInit: FAudioDevice initialized.
+[2023.07.26-14.29.13:257][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.07.26-14.29.13:257][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.07.26-14.29.13:320][  0]LogDerivedDataCache: Saved boot cache 0.06s 94MB C:/Users/49011/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.07.26-14.29.13:320][  0]LogInit: Texture streaming: Enabled
+[2023.07.26-14.29.13:377][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.07.26-14.29.13:395][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.07.26-14.29.13:395][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.07.26-14.29.13:397][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.07.26-14.29.13:466][  0]LogInit: Transaction tracking system initialized
+[2023.07.26-14.29.13:603][  0]BlueprintLog: New page: 编辑器加载
+[2023.07.26-14.29.13:942][  0]LocalizationService: 本地化服务已禁用
+[2023.07.26-14.29.14:093][  0]TimingProfiler: Initialize
+[2023.07.26-14.29.14:095][  0]TimingProfiler: OnSessionChanged
+[2023.07.26-14.29.14:095][  0]LoadingProfiler: Initialize
+[2023.07.26-14.29.14:095][  0]LoadingProfiler: OnSessionChanged
+[2023.07.26-14.29.14:095][  0]NetworkingProfiler: Initialize
+[2023.07.26-14.29.14:095][  0]NetworkingProfiler: OnSessionChanged
+[2023.07.26-14.29.14:095][  0]MemoryProfiler: Initialize
+[2023.07.26-14.29.14:095][  0]MemoryProfiler: OnSessionChanged
+[2023.07.26-14.29.14:808][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.07.26-14.29.14:808][  0]LogCook: Display: Mobile HDR setting 1
+[2023.07.26-14.29.15:498][  0]LogFileCache: Scanning file cache for directory 'D:/Homework/Second/MastersProject/MasterProject/Content/' took 0.02s
+[2023.07.26-14.29.15:878][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.07.26-14.29.15:884][  0]SourceControl: 源码管理已禁用
+[2023.07.26-14.29.15:885][  0]LogUnrealEdMisc: Loading editor; pre map load, took 31.680
+[2023.07.26-14.29.15:885][  0]Cmd: MAP LOAD FILE="../../../../Homework/Second/MastersProject/MasterProject/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.07.26-14.29.15:886][  0]LightingResults: New page: 光照构建
+[2023.07.26-14.29.15:889][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-14.29.15:890][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.29.15:890][  0]MapCheck: New page: 地图检测
+[2023.07.26-14.29.15:890][  0]LightingResults: New page: 光照构建
+[2023.07.26-14.29.15:897][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-14.29.15:902][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.26-14.29.17:888][  0]LogBlueprint: Warning: [AssetLog] D:\Homework\Second\MastersProject\MasterProject\Content\TopDownBP\Blueprints\TopDownController.uasset: [Compiler] 输入操作事件（InputAction Event）为  输入操作SetDestination  引用了未知操作 'SetDestination’
+[2023.07.26-14.29.21:236][  0]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{66be2d7a-3dbd-461d-81f0-06b8eeff05ef}.
+[2023.07.26-14.29.21:236][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:240][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:243][  0]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.07.26-14.29.21:243][  0]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.07.26-14.29.21:243][  0]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:243][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:797][  0]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 1
+[2023.07.26-14.29.21:797][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:797][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:827][  0]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 1
+[2023.07.26-14.29.21:827][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:827][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:843][  0]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 1
+[2023.07.26-14.29.21:843][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:843][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:848][  0]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2023.07.26-14.29.21:848][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:848][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:854][  0]LogShaderCompilers: Display: Worker (7/17): shaders left to compile 1
+[2023.07.26-14.29.21:854][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:854][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:871][  0]LogShaderCompilers: Display: Worker (8/17): shaders left to compile 1
+[2023.07.26-14.29.21:871][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:871][  0]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:872][  0]LogShaderCompilers: Display: Worker (9/17): shaders left to compile 1
+[2023.07.26-14.29.21:872][  0]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-14.29.21:872][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2023.07.26-14.29.21:873][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.07.26-14.29.21:914][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.26-14.29.21:918][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.07.26-14.29.21:939][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.07.26-14.29.21:940][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.26-14.29.21:940][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.407毫秒。
+[2023.07.26-14.29.21:940][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 6.055
+[2023.07.26-14.29.21:958][  0]LogUnrealEdMisc: Total Editor Startup Time, took 37.754
+[2023.07.26-14.29.22:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.29.22:129][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.29.22:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.29.22:153][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.29.22:205][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0134 seconds. Added 3822 classes and 928 folders.
+[2023.07.26-14.29.22:232][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.07.26-14.29.22:251][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.07.26-14.29.22:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.26-14.29.22:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.07.26-14.29.22:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000211
+[2023.07.26-14.29.22:262][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.07.26-14.29.22:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.07.26-14.29.22:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:262][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.07.26-14.29.22:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.07.26-14.29.22:271][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.07.26-14.29.22:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.07.26-14.29.22:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:271][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.07.26-14.29.22:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.07.26-14.29.22:280][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.26-14.29.22:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.26-14.29.22:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:280][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.07.26-14.29.22:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2023.07.26-14.29.22:289][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.07.26-14.29.22:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.07.26-14.29.22:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:289][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.07.26-14.29.22:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2023.07.26-14.29.22:299][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.07.26-14.29.22:299][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:299][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.07.26-14.29.22:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:299][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.07.26-14.29.22:299][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2023.07.26-14.29.22:306][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.07.26-14.29.22:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.07.26-14.29.22:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:306][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.07.26-14.29.22:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.07.26-14.29.22:313][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.07.26-14.29.22:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.07.26-14.29.22:314][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:314][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.07.26-14.29.22:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2023.07.26-14.29.22:322][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.07.26-14.29.22:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.07.26-14.29.22:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:323][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.07.26-14.29.22:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.07.26-14.29.22:330][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.07.26-14.29.22:330][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:330][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.07.26-14.29.22:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:330][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.07.26-14.29.22:330][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.07.26-14.29.22:338][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.07.26-14.29.22:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.07.26-14.29.22:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:338][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.07.26-14.29.22:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.07.26-14.29.22:348][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.07.26-14.29.22:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.07.26-14.29.22:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.07.26-14.29.22:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.07.26-14.29.22:356][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.26-14.29.22:356][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:356][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.26-14.29.22:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:356][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.07.26-14.29.22:356][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.07.26-14.29.22:365][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.07.26-14.29.22:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.07.26-14.29.22:366][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:366][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.07.26-14.29.22:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.07.26-14.29.22:374][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.07.26-14.29.22:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.07.26-14.29.22:374][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:374][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.07.26-14.29.22:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.07.26-14.29.22:383][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.07.26-14.29.22:383][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:383][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.26-14.29.22:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:383][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.07.26-14.29.22:383][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2023.07.26-14.29.22:391][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.07.26-14.29.22:391][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:391][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.07.26-14.29.22:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:391][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.07.26-14.29.22:391][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2023.07.26-14.29.22:399][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.07.26-14.29.22:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.07.26-14.29.22:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:399][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.07.26-14.29.22:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.07.26-14.29.22:406][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.26-14.29.22:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.26-14.29.22:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.07.26-14.29.22:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2023.07.26-14.29.22:414][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.26-14.29.22:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.26-14.29.22:414][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:414][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.07.26-14.29.22:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.07.26-14.29.22:420][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.07.26-14.29.22:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.07.26-14.29.22:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:420][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.07.26-14.29.22:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.07.26-14.29.22:427][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.07.26-14.29.22:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.07.26-14.29.22:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.07.26-14.29.22:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.07.26-14.29.22:432][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.07.26-14.29.22:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.07.26-14.29.22:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.07.26-14.29.22:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.07.26-14.29.22:438][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.07.26-14.29.22:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.07.26-14.29.22:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:438][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.07.26-14.29.22:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2023.07.26-14.29.22:445][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.07.26-14.29.22:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.07.26-14.29.22:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:445][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.07.26-14.29.22:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.07.26-14.29.22:451][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.07.26-14.29.22:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.07.26-14.29.22:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.07.26-14.29.22:451][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.07.26-14.29.22:451][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.07.26-14.29.22:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2023.07.26-14.29.22:806][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.07.26-14.29.22:810][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.07.26-14.29.23:062][  0]LogSlate: Took 0.003577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.07.26-14.29.23:067][  0]LogSlate: Took 0.003550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.07.26-14.29.23:071][  0]LogSlate: Took 0.004711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.07.26-14.29.23:075][  0]LogSlate: Took 0.003270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.07.26-14.29.23:186][  0]LogRenderer: Reallocating scene render targets to support 1636x868 Format 10 NumSamples 1 (Frame:1).
+[2023.07.26-14.29.23:620][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.07.26-14.29.23:620][  0]LogLoad: (Engine Initialization) Total time: 39.42 seconds
+[2023.07.26-14.29.23:620][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.07.26-14.29.23:688][  0]LogAssetRegistry: Asset discovery search completed in 20.5638 seconds
+[2023.07.26-14.29.23:733][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.07.26-14.29.23:737][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.07.26-14.29.23:739][  0]LogAudioMixer: Resetting audio stream to device id 
+[2023.07.26-14.29.23:750][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.26-14.29.23:750][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.07.26-14.29.26:698][ 11]LogTemp: Repeating last play command: 选中的视口
+[2023.07.26-14.29.26:703][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.26-14.29.26:704][ 11]PIE: New page: PIE会话：TopDownExampleMap（2023年7月26日 下午4:29:26）
+[2023.07.26-14.29.26:706][ 11]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.07.26-14.29.26:708][ 11]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.26-14.29.26:708][ 11]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.07.26-14.29.26:719][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010997s)
+[2023.07.26-14.29.26:720][ 11]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2023.07.26-14.29.26:720][ 11]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2023.07.26-14.29.26:720][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.012093s)
+[2023.07.26-14.29.26:730][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.26-14.29.26:730][ 11]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.07.26-14.29.26:730][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.26-14.29.26:730][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.26-14.29.26:730][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.26-14.29.26:730][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.26-14.29.26:730][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2023.07.26-14.29.26:733][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.26-14.29.26:733][ 11]LogAudioMixer: Display: 1: FrontRight
+[2023.07.26-14.29.26:737][ 11]LogAudioMixer: Display: Using Audio Device Speakers (HyperX Cloud Stinger Core Wireless DTS)
+[2023.07.26-14.29.26:738][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.26-14.29.26:738][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.26-14.29.26:738][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.26-14.29.26:738][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.07.26-14.29.26:738][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.07.26-14.29.26:738][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.07.26-14.29.26:740][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.07.26-14.29.26:740][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.07.26-14.29.26:740][ 11]LogInit: FAudioDevice initialized.
+[2023.07.26-14.29.26:740][ 11]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2023.07.26-14.29.26:746][ 11]LogLoad: Game class is 'TopDownGameMode_C'
+[2023.07.26-14.29.26:748][ 11]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2023.07.26-15.29.26
+[2023.07.26-14.29.26:748][ 11]LogWorld: Bringing up level for play took: 0.001088
+[2023.07.26-14.29.26:748][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2023.07.26-14.29.26:754][ 11]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2023.07.26-14.29.26:761][ 11]PIE: 登陆的服务器
+[2023.07.26-14.29.26:763][ 11]PIE: PIE总开始时间：0.06秒。
+[2023.07.26-14.29.30:620][240]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.26-14.29.30:620][240]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.07.26-14.29.30:620][240]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.07.26-14.29.31:353][284]LogBlueprintUserMessages: [InventoryComponent] Water
+[2023.07.26-14.29.32:736][367]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.07.26-14.29.32:736][367]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.07.26-14.29.45:354][124]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.07.26-14.29.45:354][124]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.07.26-14.29.48:254][298]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.07.26-14.29.48:254][298]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.07.26-14.29.48:882][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.29.48:882][334]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2023.07.26-14.29.48:884][334]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-14.29.48:884][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.29.48:894][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.26-14.29.48:897][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-14.29.48:908][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.26-14.29.48:908][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.26-14.29.48:909][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.07.26-14.29.48:911][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.26-14.29.48:914][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.07.26-14.29.48:973][336]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.07.26-14.44.17:585][740]LogSlate: Took 0.004707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.26-14.44.17:600][740]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/EnemySystem/AI_Actor.AI_Actor
+[2023.07.26-14.44.18:132][740]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.07.26-14.44.19:120][740]LogSlate: Took 0.004200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.07.26-14.44.19:590][741]LogSlate: Took 0.004525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.07.26-14.44.23:916][983]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2023.07.26-14.44.58:656][125]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/zh-Hans//Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2023.07.26-14.45.30:945][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.07.26-14.45.30:947][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.038
+[2023.07.26-14.45.30:949][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-14.45.30:949][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-14.45.31:144][580]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto1BDCA151148972AA696352F8E67B40234.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto1.uasset'
+[2023.07.26-14.45.31:147][580]LogFileHelpers: Auto-saving content packages took 0.200
+[2023.07.26-14.51.41:964][963]BlueprintLog: New page: 编译AI_Actor
+[2023.07.26-14.51.42:076][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.07.26-14.51.42:288][963]LogSlate: Took 0.005018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.07.26-14.55.31:323][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.07.26-14.55.31:324][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.034
+[2023.07.26-14.55.31:325][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-14.55.31:325][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-14.55.31:494][269]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto2F9B11EA84E4C4546357F6BBD9CB8FAFD.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto2.uasset'
+[2023.07.26-14.55.31:496][269]LogFileHelpers: Auto-saving content packages took 0.173
+[2023.07.26-15.09.14:326][550]BlueprintLog: New page: 编译AI_Actor
+[2023.07.26-15.09.14:354][550]LogBlueprint: Error: [AssetLog] D:\Homework\Second\MastersProject\MasterProject\Content\TopDownBP\EnemySystem\AI_Actor.uasset: [Compiler] “ Object Types ”引脚当前的值（ObjectTypeQuery1）无效：数组输入（如“Object Types”）必须连接有效的输入（尝试连接一个MakeArray节点）。
+[2023.07.26-15.09.14:418][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.07.26-15.09.48:668][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.07.26-15.09.48:668][ 98]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.028
+[2023.07.26-15.09.48:669][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-15.09.48:669][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-15.09.48:823][ 98]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto3D906E5794436B51EC47EEE9E8DE74FC7.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto3.uasset'
+[2023.07.26-15.09.48:826][ 98]LogFileHelpers: Auto-saving content packages took 0.157
+[2023.07.26-15.10.32:904][414]BlueprintLog: New page: 编译AI_Actor
+[2023.07.26-15.10.32:996][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.07.26-15.20.16:675][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.07.26-15.20.16:676][493]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.033
+[2023.07.26-15.20.16:677][493]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-15.20.16:677][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-15.20.16:819][493]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto434A9AFBC4CC28522B98AFBA3964785A6.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto4.uasset'
+[2023.07.26-15.20.16:820][493]LogFileHelpers: Auto-saving content packages took 0.144
+[2023.07.26-15.30.17:246][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.07.26-15.30.17:248][ 49]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.034
+[2023.07.26-15.30.17:250][ 49]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-15.30.17:250][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-15.30.17:422][ 49]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto5E65136CD4D68809885406CB532F7025A.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto5.uasset'
+[2023.07.26-15.30.17:427][ 49]LogFileHelpers: Auto-saving content packages took 0.179
+[2023.07.26-15.33.35:550][ 72]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 76BF728AF8DAA55AABC578C95E85C21F869CBD67), compiling. 
+[2023.07.26-15.33.35:572][ 73]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.07.26-15.33.35:577][ 74]LogShaderCompilers: Display: Worker (1/17): shaders left to compile 2
+[2023.07.26-15.33.35:578][ 74]LogShaderCompilers: Display: Worker (2/17): shaders left to compile 1
+[2023.07.26-15.33.35:578][ 74]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.07.26-15.33.35:586][ 74]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2023.07.26-15.33.35:586][ 74]LogShaderCompilers: Display: Worker (3/17): shaders left to compile 4
+[2023.07.26-15.33.35:586][ 74]LogShaderCompilers: Display: Worker (4/17): shaders left to compile 3
+[2023.07.26-15.33.35:586][ 74]LogShaderCompilers: Display: Worker (5/17): shaders left to compile 2
+[2023.07.26-15.33.35:586][ 74]LogShaderCompilers: Display: Worker (6/17): shaders left to compile 1
+[2023.07.26-15.33.35:586][ 74]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2023.07.26-15.33.36:247][111]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.26-15.33.36:247][111]LogShaderCompilers: Display: Total job queries 15, among them cache hits 0 (0.00%)
+[2023.07.26-15.33.36:247][111]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 12 distinct outputs (100.00%)
+[2023.07.26-15.33.36:248][111]LogShaderCompilers: Display: RAM used: 0.23 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2023.07.26-15.33.36:248][111]LogShaderCompilers: Display: ================================================
+[2023.07.26-15.40.17:924][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.07.26-15.40.17:927][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.033
+[2023.07.26-15.40.17:928][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-15.40.17:928][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-15.40.18:088][ 23]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto6DC38767044F018B85A0A44A085672468.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto6.uasset'
+[2023.07.26-15.40.18:091][ 23]LogFileHelpers: Auto-saving content packages took 0.163
+[2023.07.26-15.47.47:967][118]BlueprintLog: New page: 编译AI_Actor
+[2023.07.26-15.47.48:067][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.07.26-15.48.40:586][214]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/RPGMonsterWavePBR/Animations/Slime/Attack01_Slime_Anim.Attack01_Slime_Anim
+[2023.07.26-15.48.40:695][214]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2023.07.26-15.48.40:706][214]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.07.26-15.48.40:805][214]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.07.26-15.48.40:907][214]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-15.48.40:911][214]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.07.26-15.48.41:610][214]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-15.48.43:689][326]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/RPGMonsterWavePBR/Animations/Slime/Attack02_Slime_Anim.Attack02_Slime_Anim
+[2023.07.26-15.48.43:754][326]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-15.48.43:755][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-15.48.49:372][652]LogSlate: Window 'Attack02_Slime_Anim' being destroyed
+[2023.07.26-15.48.49:381][652]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-15.48.49:381][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-15.48.49:405][652]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-15.48.49:405][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-15.48.49:468][652]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-15.48.49:468][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-15.50.18:687][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2023.07.26-15.50.18:690][921]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.109
+[2023.07.26-15.50.18:691][921]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-15.50.18:691][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-15.50.18:851][921]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto7B5C1F52040B1659B39CAF394369A5FC9.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto7.uasset'
+[2023.07.26-15.50.18:854][921]LogFileHelpers: Auto-saving content packages took 0.165
+[2023.07.26-16.01.30:952][573]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/RPGMonsterWavePBR/Animations/Slime/Taunt_Slime_Anim.Taunt_Slime_Anim
+[2023.07.26-16.01.30:956][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.01.31:204][573]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.01.34:029][736]LogSlate: Window 'Taunt_Slime_Anim' being destroyed
+[2023.07.26-16.01.34:040][736]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.01.34:040][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.01.34:073][736]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.01.34:073][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.01.34:137][736]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.01.34:137][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.01.52:785][566]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2023.07.26-16.01.52:802][566]LogContentBrowser: Creating deferred item: 新建文件夹
+[2023.07.26-16.01.55:572][733]LogContentBrowser: Attempting asset rename: 新建文件夹 -> Slime
+[2023.07.26-16.01.55:572][733]LogContentBrowser: End creating deferred item 新建文件夹
+[2023.07.26-16.02.08:080][394]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.26-16.02.08:146][394]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2023.07.26-16.02.22:561][394]LogSlate: Window '创建动画蓝图' being destroyed
+[2023.07.26-16.02.22:571][394]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.07.26-16.02.22:581][394]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.07.26-16.02.26:885][653]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_Slime
+[2023.07.26-16.02.26:894][653]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.07.26-16.02.30:027][840]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime
+[2023.07.26-16.02.30:038][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.02.30:619][840]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.02.31:766][869]LogSlate: Window 'ABP_Slime' being destroyed
+[2023.07.26-16.11.28:289][526]BlueprintLog: New page: 编译ABP_Slime
+[2023.07.26-16.11.28:375][526]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.07.26-16.11.37:964][829]LogSlate: Window '选取骨骼' being destroyed
+[2023.07.26-16.11.37:974][829]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2023.07.26-16.11.37:986][829]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2023.07.26-16.11.39:295][865]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> NewBlendSpace1D
+[2023.07.26-16.11.39:299][865]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2023.07.26-16.11.43:315][ 92]LogContentBrowser: Attempting asset rename: Amix_Bat -> Amix_Bat
+[2023.07.26-16.11.47:715][356]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> Amix_Slime
+[2023.07.26-16.11.47:786][356]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/Amix_SlimeEFFF3E5F427A85A29CB4CCA1EA583722.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Content/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime.uasset'
+[2023.07.26-16.11.47:887][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2023.07.26-16.11.47:931][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.07.26-16.11.47:961][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.26-16.11.48:414][356]AssetCheck: New page: 资产保存：Amix_Slime
+[2023.07.26-16.11.48:415][356]LogContentValidation: Display: 正在验证BlendSpace1D /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime.Amix_Slime
+[2023.07.26-16.11.50:914][429]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime.Amix_Slime
+[2023.07.26-16.11.50:917][429]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.11.51:159][429]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.12.26:086][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.07.26-16.12.26:088][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.040
+[2023.07.26-16.12.26:089][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-16.12.26:089][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-16.12.26:242][ 92]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto80843F686476A81F17D45A4A1152411AF.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto8.uasset'
+[2023.07.26-16.12.26:244][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime] ([1] browsable assets)...
+[2023.07.26-16.12.26:321][ 92]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime.Amix_Slime]
+[2023.07.26-16.12.26:321][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime]
+[2023.07.26-16.12.26:326][ 92]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/Amix_Slime_Auto8A7C13059442A891B9057BA826A4C70E6.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime_Auto8.uasset'
+[2023.07.26-16.12.26:326][ 92]LogFileHelpers: Auto-saving content packages took 0.238
+[2023.07.26-16.18.59:420][147]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/TopDownBP/EnemySystem/Ai_AnimBP/DRAGON/AMix_Dragon.AMix_Dragon
+[2023.07.26-16.18.59:424][147]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.18.59:672][147]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.22.26:815][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.07.26-16.22.26:817][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.048
+[2023.07.26-16.22.26:817][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime] ([1] browsable assets)...
+[2023.07.26-16.22.26:885][558]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime.Amix_Slime]
+[2023.07.26-16.22.26:885][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime]
+[2023.07.26-16.22.26:891][558]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/Amix_Slime_Auto98C50F3844A6896DB535FA7831A53D031.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime_Auto9.uasset'
+[2023.07.26-16.22.26:891][558]LogFileHelpers: Auto-saving content packages took 0.074
+[2023.07.26-16.23.10:210][859]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.23.10:210][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.23.10:274][859]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.23.10:274][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.23.21:911][541]BlueprintLog: New page: 编译ABP_Slime
+[2023.07.26-16.23.21:979][541]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.07.26-16.23.25:460][746]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/TopDownBP/EnemySystem/Ai_AnimBP/DRAGON/AMix_Dragon.AMix_Dragon
+[2023.07.26-16.23.25:464][746]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.23.25:685][746]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.23.27:187][834]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/TopDownBP/EnemySystem/Ai_AnimBP/DRAGON/ABP_Dragon.ABP_Dragon
+[2023.07.26-16.23.27:192][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.23.27:674][834]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.27.15:684][253]BlueprintLog: New page: 编译ABP_Slime
+[2023.07.26-16.27.15:713][253]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:713][253]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:752][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2023.07.26-16.27.15:761][253]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:777][254]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:796][255]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:813][256]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:829][257]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:846][258]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:863][259]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:879][260]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:896][261]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:913][262]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:930][263]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:946][264]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:963][265]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.27.15:979][266]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_3
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:327][660]BlueprintLog: New page: 编译ABP_Slime
+[2023.07.26-16.28.30:354][660]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:354][660]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:392][660]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.07.26-16.28.30:398][660]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:414][661]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:437][662]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:454][663]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:470][664]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:487][665]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.30:504][666]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.43:272][706]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.43:289][707]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.43:306][708]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.43:322][709]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.43:339][710]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.43:362][711]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.28.54:435][746]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_4
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.30.25:059][144]LogContentBrowser: Deferred new asset file creation: GetHit_Slime_Anim_Montage
+[2023.07.26-16.30.25:080][144]LogContentBrowser: Creating deferred item: GetHit_Slime_Anim_Montage
+[2023.07.26-16.30.25:684][181]LogContentBrowser: Attempting asset rename: GetHit_Slime_Anim_Montage -> GetHit_Slime_Anim_Montage
+[2023.07.26-16.30.25:689][181]LogContentBrowser: End creating deferred item GetHit_Slime_Anim_Montage
+[2023.07.26-16.30.29:328][393]LogContentBrowser: Deferred new asset file creation: Die_Slime_Anim_Montage
+[2023.07.26-16.30.29:351][393]LogContentBrowser: Creating deferred item: Die_Slime_Anim_Montage
+[2023.07.26-16.30.29:987][432]LogContentBrowser: Attempting asset rename: Die_Slime_Anim_Montage -> Die_Slime_Anim_Montage
+[2023.07.26-16.30.29:990][432]LogContentBrowser: End creating deferred item Die_Slime_Anim_Montage
+[2023.07.26-16.30.32:248][560]LogContentBrowser: Deferred new asset file creation: Attack01_Slime_Anim_Montage
+[2023.07.26-16.30.32:265][560]LogContentBrowser: Creating deferred item: Attack01_Slime_Anim_Montage
+[2023.07.26-16.30.33:103][611]LogContentBrowser: Attempting asset rename: Attack01_Slime_Anim_Montage -> Attack01_Slime_Anim_Montage
+[2023.07.26-16.30.33:105][611]LogContentBrowser: End creating deferred item Attack01_Slime_Anim_Montage
+[2023.07.26-16.42.50:049][107]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/RPGMonsterWavePBR/Animations/Slime/SenseSomethingStart_Slime_Anim.SenseSomethingStart_Slime_Anim
+[2023.07.26-16.42.53:562][311]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.42.53:562][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.42.53:582][311]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.42.53:582][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.42.53:633][311]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.42.53:633][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.42.55:279][406]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/RPGMonsterWavePBR/Animations/Slime/Victory_Slime_Anim.Victory_Slime_Anim
+[2023.07.26-16.42.55:283][406]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.42.55:576][406]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.42.57:495][521]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.42.57:495][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.42.57:512][521]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.42.57:512][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.42.57:552][521]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.42.57:552][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.43.40:894][528]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/GetHit_Slime_Anim_Montage7EBB3E41404430310C7C8689A183549A.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Content/TopDownBP/EnemySystem/Ai_AnimBP/Slime/GetHit_Slime_Anim_Montage.uasset'
+[2023.07.26-16.43.40:907][528]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/Die_Slime_Anim_Montage3C20E0A4457296C8658A54A7C9F14D3E.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Content/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Die_Slime_Anim_Montage.uasset'
+[2023.07.26-16.43.40:923][528]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/Attack01_Slime_Anim_MontageB54FFA524B1F54E6DCE688B44F760FBC.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Content/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Attack01_Slime_Anim_Montage.uasset'
+[2023.07.26-16.43.41:093][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2023.07.26-16.43.41:129][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.07.26-16.43.41:163][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.26-16.43.41:202][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.07.26-16.43.41:235][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.26-16.43.42:153][528]AssetCheck: New page: 资产保存：多个资产
+[2023.07.26-16.43.42:153][528]LogContentValidation: Display: 正在验证AnimMontage /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Die_Slime_Anim_Montage.Die_Slime_Anim_Montage
+[2023.07.26-16.43.42:153][528]LogContentValidation: Display: 正在验证AnimMontage /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Attack01_Slime_Anim_Montage.Attack01_Slime_Anim_Montage
+[2023.07.26-16.43.42:153][528]LogContentValidation: Display: 正在验证AnimMontage /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/GetHit_Slime_Anim_Montage.GetHit_Slime_Anim_Montage
+[2023.07.26-16.45.53:800][197]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.26-16.45.53:804][197]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.07.26-16.46.02:722][197]LogSlate: Window '选取父类' being destroyed
+[2023.07.26-16.46.02:731][197]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.26-16.46.02:744][197]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.26-16.46.27:776][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.07.26-16.46.27:779][301]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.049
+[2023.07.26-16.46.27:780][301]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-16.46.27:780][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-16.46.27:954][301]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto02226B9D141DB2B7938E813AF2FB6A420.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto0.uasset'
+[2023.07.26-16.46.27:959][301]LogFileHelpers: Auto-saving content packages took 0.181
+[2023.07.26-16.52.07:275][316]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.07.26-16.52.07:281][316]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.26-16.52.12:076][600]BlueprintLog: New page: 编译ABP_Slime
+[2023.07.26-16.52.12:098][600]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:099][600]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:138][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.07.26-16.52.12:145][600]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:162][601]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:187][602]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:203][603]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:220][604]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:239][605]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:257][606]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:270][607]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:287][608]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:305][609]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:321][610]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:337][611]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:353][612]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.12:370][613]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Slime_C /Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Slime_C_5
+	Function /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/ABP_Slime.ABP_Slime_C:ExecuteUbergraph_ABP_Slime:0040
+[2023.07.26-16.52.13:523][680]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Amix_Slime.Amix_Slime
+[2023.07.26-16.52.13:527][680]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.52.13:759][680]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.07.26-16.52.15:689][796]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.52.15:689][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.52.15:742][796]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.52.15:742][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.52.18:973][988]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.52.18:973][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.52.18:983][988]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.52.18:983][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.52.19:049][988]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.52.19:049][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.52.24:810][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/EnemySystem/Ai_AnimBP/DRAGON/Dragon_Attack_2.Dragon_Attack_2
+[2023.07.26-16.52.27:255][462]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.07.26-16.52.27:255][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.26-16.52.29:329][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/EnemySystem/Ai_AnimBP/DRAGON/Dragon_Attack.Dragon_Attack
+[2023.07.26-16.52.34:282][864]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/NewBlueprint.NewBlueprint
+[2023.07.26-16.52.40:463][227]Cmd: TRANSACTION UNDO
+[2023.07.26-16.52.40:463][227]LogEditorTransaction: Undo 创建重载函数图表
+[2023.07.26-16.52.40:582][227]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.52.40:583][227]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.52.46:696][590]Cmd: TRANSACTION UNDO
+[2023.07.26-16.52.46:696][590]LogEditorTransaction: Undo 添加新函数
+[2023.07.26-16.52.46:812][590]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.52.46:813][590]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.53.21:045][278]BlueprintLog: New page: 编译NewBlueprint
+[2023.07.26-16.53.21:096][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2023.07.26-16.53.28:131][694]LogEditorTransaction: Undo 添加节点
+[2023.07.26-16.53.28:235][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.53.28:236][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-16.53.38:245][285]BlueprintLog: New page: 编译NewBlueprint
+[2023.07.26-16.53.38:283][285]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2023.07.26-16.53.41:143][454]BlueprintLog: New page: 编译AI_Actor
+[2023.07.26-16.53.41:267][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.07.26-16.56.28:580][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2023.07.26-16.56.28:581][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.050
+[2023.07.26-16.56.28:582][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-16.56.28:582][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-16.56.28:744][580]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto19A15A2124A2311FED68804903FE25C01.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto1.uasset'
+[2023.07.26-16.56.28:745][580]LogFileHelpers: Auto-saving content packages took 0.164
+[2023.07.26-17.19.09:284][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.07.26-17.19.09:285][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.042
+[2023.07.26-17.19.09:286][168]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-17.19.09:287][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-17.19.09:426][168]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto2921D04B74AD19E7032A583A2EE5CD723.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto2.uasset'
+[2023.07.26-17.19.09:427][168]LogFileHelpers: Auto-saving content packages took 0.141
+[2023.07.26-17.19.15:256][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/ShootingSystem/BP_Projectile_2.BP_Projectile_2
+[2023.07.26-17.19.40:843][897]LogContentBrowser: Attempting asset rename: Dragon_Attack -> Dragon_Attack
+[2023.07.26-17.19.48:744][371]LogContentBrowser: Attempting asset rename: NewBlueprint -> Slime_Attack
+[2023.07.26-17.19.48:762][371]LogMetaData: Removing '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.SKEL_Slime_Attack_C' ref from Metadata '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/NewBlueprint.PackageMetaData'
+[2023.07.26-17.19.48:762][371]LogMetaData: Removing '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.Slime_Attack_C' ref from Metadata '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/NewBlueprint.PackageMetaData'
+[2023.07.26-17.19.48:762][371]LogMetaData: Removing '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.Slime_Attack:Received_NotifyTick.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/NewBlueprint.PackageMetaData'
+[2023.07.26-17.19.48:762][371]LogMetaData: Removing '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.Slime_Attack:Received_NotifyTick.K2Node_FunctionResult_1' ref from Metadata '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/NewBlueprint.PackageMetaData'
+[2023.07.26-17.19.48:762][371]LogMetaData: Removing '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.Slime_Attack_C:Received_NotifyTick' ref from Metadata '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/NewBlueprint.PackageMetaData'
+[2023.07.26-17.19.48:762][371]LogMetaData: Removing '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.SKEL_Slime_Attack_C:Received_NotifyTick' ref from Metadata '/Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/NewBlueprint.PackageMetaData'
+[2023.07.26-17.19.48:793][371]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/Slime_AttackB270CF71427B9B30D2724CB2CF51141B.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Content/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.uasset'
+[2023.07.26-17.19.48:908][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.07.26-17.19.48:954][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.07.26-17.19.48:985][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.07.26-17.19.49:539][371]AssetCheck: New page: 资产保存：Slime_Attack
+[2023.07.26-17.19.49:539][371]LogContentValidation: Display: 正在验证Blueprint /Game/TopDownBP/EnemySystem/Ai_AnimBP/Slime/Slime_Attack.Slime_Attack
+[2023.07.26-17.23.35:811][874]LogEditorTransaction: Undo 添加节点
+[2023.07.26-17.23.35:967][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.23.35:968][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.29.09:803][734]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2023.07.26-17.29.09:805][734]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.057
+[2023.07.26-17.29.09:806][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/EnemySystem/AI_Actor] ([2] browsable assets)...
+[2023.07.26-17.29.09:806][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/EnemySystem/AI_Actor]
+[2023.07.26-17.29.09:990][734]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/AI_Actor_Auto3ECD91306441F5982102851B28D8B85D6.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/EnemySystem/AI_Actor_Auto3.uasset'
+[2023.07.26-17.29.09:992][734]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/ShootingSystem/BP_Projectile_2] ([2] browsable assets)...
+[2023.07.26-17.29.09:992][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/ShootingSystem/BP_Projectile_2]
+[2023.07.26-17.29.10:010][734]LogSavePackage: Moving '../../../../Homework/Second/MastersProject/MasterProject/Saved/BP_Projectile_2_Auto35C92D21A4DA70C8E24E2D986A51C93BA.tmp' to '../../../../Homework/Second/MastersProject/MasterProject/Saved/Autosaves/Game/TopDownBP/ShootingSystem/BP_Projectile_2_Auto3.uasset'
+[2023.07.26-17.29.10:015][734]LogFileHelpers: Auto-saving content packages took 0.209
+[2023.07.26-17.33.24:708][ 24]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ac4d3b35-d168-4d87-8bfa-c5844fa2b7b8}.
+[2023.07.26-17.33.24:708][ 24]LogAudioMixer: Resetting audio stream to device id 
+[2023.07.26-17.33.24:752][ 24]LogAudioMixer: Display: 0: FrontLeft
+[2023.07.26-17.33.24:753][ 24]LogAudioMixer: Display: 1: FrontRight
+[2023.07.26-17.33.56:362][904]LogEditorTransaction: Undo 移动节点
+[2023.07.26-17.33.56:505][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.33.56:506][904]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.33.58:791][ 23]Cmd: TRANSACTION UNDO
+[2023.07.26-17.33.58:791][ 23]LogEditorTransaction: Undo 添加节点
+[2023.07.26-17.33.58:925][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.33.58:926][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.33.59:301][ 39]LogEditorTransaction: Undo 添加组件节点
+[2023.07.26-17.33.59:421][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.33.59:421][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.34.00:420][ 92]LogEditorTransaction: Redo 添加组件节点
+[2023.07.26-17.34.00:571][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.34.00:572][ 92]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.07.26-17.34.50:781][ 67]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.07.26-17.34.50:871][ 67]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.090 s
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: === Handled ensure: ===
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: 
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinExec [AnimationGraphFactory.cpp(98)]). See InvalidateGraphData for more info
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: Stack: 
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007fffe8bb476b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007fffe8a612db UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007fffe8a5ff58 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007fffe8a6d0bc UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007fffe8ae879c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007fffe8ae5c7f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff06bb559 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff06bb3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff06bd800 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff06bd800 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:871][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff06bb3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff06bd800 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7787 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007fffefffbe74 UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff00e7a1c UE4Editor-SlateCore.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff0491bee UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff04c2779 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff0492547 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff04e8279 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffff04e7a73 UE4Editor-Slate.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff61c5d9a1f UE4Editor.exe!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff61c5f0fcc UE4Editor.exe!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff61c5f10ba UE4Editor.exe!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff61c5f40dd UE4Editor.exe!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff61c605984 UE4Editor.exe!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff61c60853a UE4Editor.exe!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff8823926ad KERNEL32.DLL!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff883daaa68 ntdll.dll!UnknownFunction []
+[2023.07.26-17.34.50:872][ 67]LogOutputDevice: Error: 
